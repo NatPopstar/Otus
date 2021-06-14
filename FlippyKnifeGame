@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T18:17:35.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 YaBrowser/21.5.2.638 Yowser/2.5 Safari/537.36" etag="EKWotDVNDigUC-ZEm7Ef" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T18:27:41.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 YaBrowser/21.5.2.638 Yowser/2.5 Safari/537.36" etag="5xSyUC_Xz66SmWZCdLoG" version="14.7.7" type="github">
   <diagram id="cXsSeQkbOpgRXHf0n8wJ" name="Page-1">
-    <mxGraphModel dx="3076" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3903" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -646,11 +646,14 @@
         <mxCell id="iddgVsRpwtvpgOGVpPjA-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-249" target="iddgVsRpwtvpgOGVpPjA-250">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-249" target="iddgVsRpwtvpgOGVpPjA-329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-249" value="При клике на ячейку с ножом происходит выбор ножа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-250" value="При клике на кнопку PLAY игра начинается с выбранным ножом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1460" y="2565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-255" target="iddgVsRpwtvpgOGVpPjA-264">
           <mxGeometry relative="1" as="geometry" />
@@ -718,6 +721,9 @@
         <mxCell id="iddgVsRpwtvpgOGVpPjA-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-290" target="iddgVsRpwtvpgOGVpPjA-302">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-290" target="iddgVsRpwtvpgOGVpPjA-337">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-290" value="Стартовое окно&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-632.5" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
@@ -730,6 +736,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-292" target="iddgVsRpwtvpgOGVpPjA-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-292" target="iddgVsRpwtvpgOGVpPjA-339">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-292" value="Режим Комбо" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -807,6 +816,9 @@
         <mxCell id="iddgVsRpwtvpgOGVpPjA-320" value="Посмотреть рекламу? Кнопки да и нет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="3085" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-322" target="iddgVsRpwtvpgOGVpPjA-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-322" value="Дает 3 попытки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="3110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -814,10 +826,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-324" value="Ножи закончились во второй раз" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="3160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1140" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iddgVsRpwtvpgOGVpPjA-326" value="Игра окончена с кнопкой Try again или покупкой еще 3х ножей" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="3170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1300" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-329" target="iddgVsRpwtvpgOGVpPjA-331">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-329" value="При клике на кнопку WATCH ADS начинается просмотр рекламы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-331" target="iddgVsRpwtvpgOGVpPjA-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-331" value="Награда за просмотр рекламы - нож" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-333" value="Разблокировка режима при выполненном условии" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-334" target="iddgVsRpwtvpgOGVpPjA-333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-334" value="Коллекция с ножами пополнилась" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-337" target="iddgVsRpwtvpgOGVpPjA-347">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-337" value="Режим Аркада" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="3350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-339" target="iddgVsRpwtvpgOGVpPjA-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-339" target="iddgVsRpwtvpgOGVpPjA-341">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-339" value="Анимации&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="2922.5" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-340" value="Похвала" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="2920" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-341" value="Разочарование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="2950" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-347" target="iddgVsRpwtvpgOGVpPjA-348">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iddgVsRpwtvpgOGVpPjA-347" target="iddgVsRpwtvpgOGVpPjA-349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-347" value="Анимации&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="3357.5" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-348" value="Похвала" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="3355" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iddgVsRpwtvpgOGVpPjA-349" value="Разочарование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="3385" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
