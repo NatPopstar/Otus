@@ -1,5 +1,7 @@
 # Otus
 **Homeworks**
+* [Тестирование Консолей](https://docs.google.com/spreadsheets/d/1AwZ-C_GnL1XwlSK7zpEObnitOO_lO818ze_IJEhlNEI/edit?usp=sharing) 20.01.22
+* [Тестирование графики](https://docs.google.com/spreadsheets/d/16vVSaJoMTUe_EdVr7s3GVKpnYb5q5yHYdm9j1B1R-G0/edit?usp=sharing) 20.01.22
 * [Локализация Revelation](https://docs.google.com/spreadsheets/d/1zcU9ZaltaAB1akvKX-gqn_kTQa-mbDELKILO_KV0PS4/edit?usp=sharing) 28.12.21
 * [Тестирование уровней](https://docs.google.com/spreadsheets/d/1c-BQRcmGXGv-Lfp7AinxakRUrv5w79eF6XFy2KxuuCo/edit?usp=sharing) 23.12.21
 * [Тестовые артефакты](https://docs.google.com/spreadsheets/d/1H9WbtgceC-L8txuFNLuZ4v8rjN0Owt2FQ-EHM4SaYvs/edit?usp=sharing) 22.12.21
