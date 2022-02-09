@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T13:36:02.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.2.834 Yowser/2.5 Safari/537.36" etag="sOC487XmuqWMUlBa025N" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T13:36:09.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.2.834 Yowser/2.5 Safari/537.36" etag="drlBc_2gn5YlEEfrsYW-" version="16.1.0" type="github">
   <diagram id="XYMQGoJn7dZlJno2KCu6" name="Page-1">
     <mxGraphModel dx="1360" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="820" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRsIpyGYwA4t4DkB4tLU-45" value="На выходе получаем 14" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="630" width="110" height="30" as="geometry" />
+          <mxGeometry x="827" y="555" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRsIpyGYwA4t4DkB4tLU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRsIpyGYwA4t4DkB4tLU-48" target="gRsIpyGYwA4t4DkB4tLU-43">
           <mxGeometry relative="1" as="geometry">
